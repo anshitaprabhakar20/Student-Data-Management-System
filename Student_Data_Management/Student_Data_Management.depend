@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1633365196 source:d:\student_data_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"my_math.h"
+
+1630671570 d:\student_data_management\my_math.h
+
+1386420876 source:d:\student_data_management\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 d:\student_data_management\conio2.h
+	<conio.h>
+	<windows.h>
+
+1633452723 source:d:\student_data_management\sorting.c
+	<stdio.h>
+	<string.h>
+	"my_math.h"
+	"conio2.h"
+
